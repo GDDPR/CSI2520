@@ -2,12 +2,12 @@
 ## Professor: Robert Laganière
 
 ## This project is written in 4 parts
-## Part 1: OOP (Java)
-## Part 2: Concurrent Programming (Go)
-## Part 3: Logical Programming (Prolog)
-## Part 4: Functional Programming (Scheme Racket)
+Part 1: OOP (Java)
+Part 2: Concurrent Programming (Go)
+Part 3: Logical Programming (Prolog)
+Part 4: Functional Programming (Scheme Racket)
 
-## Project full instructions: dev00_csi2520_H25.pdf 
+Project full instructions: dev00_csi2520_H25.pdf 
 
 <!-- CONTRIBUTORS -->
 ## Contributors
